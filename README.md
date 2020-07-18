@@ -36,7 +36,7 @@ If you use this code or these models, please cite the following paper:
 To run the demo, please download pre-trained model from [here](https://drive.google.com/file/d/1FVzZto4bf5_TCmRy3tNeirhPDdLrvum5/view?usp=sharing). Unzip it and put it to `model/`, or anywhere
 really if you just specify its location and where your article file is. Suppose your article is this [one](https://thehill.com/policy/national-security/507744-russian-hackers-return-to-spotlight-with-vaccine-research-attack)
 
-`python test_example.py --article example_article --model_dir model/`
+`python test_example.py --article example_article --model_dir model/ --model_name cnn_dailymail`
 
 You will this output - `PREDICTION >>  The hacking group known as NC29 is largely believed to operate as part of Russia's security services .<n>The three countries allege that it is carrying out a persistent and ongoing cyber campaign to steal intellectual property about a possible coronavirus vaccine .
 `
