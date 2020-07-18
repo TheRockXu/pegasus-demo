@@ -12,4 +12,5 @@ env.bak/
 venv.bak/
 
 # Checkpoints
-ckpt/
+#ckpt/
+/model/*
