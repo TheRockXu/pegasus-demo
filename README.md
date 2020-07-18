@@ -6,7 +6,7 @@
 # Requirements - 
 > numpy\
 sentencepiece\
-tensorflow==2.2.0\
+tensorflow==2.2.0
 
 # PEGASUS library
 
