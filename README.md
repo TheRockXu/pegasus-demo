@@ -38,6 +38,6 @@ really if you just specify its location and where your article file is. Suppose 
 
 `python test_example.py --article example_article --model_dir model/`
 
-You will this output - `PREDICTION >>  The hacking group known as NC29 is largely believed to operate as part of Russia's security services .<n>The three countries allege that it is carrying out a persistent and ongoing cyber campaign to steal intellectual property about a possible coronavirus vaccine .
+You will see this output - `PREDICTION >>  The hacking group known as NC29 is largely believed to operate as part of Russia's security services .<n>The three countries allege that it is carrying out a persistent and ongoing cyber campaign to steal intellectual property about a possible coronavirus vaccine .
 `
 
