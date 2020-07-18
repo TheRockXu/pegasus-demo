@@ -33,7 +33,7 @@ If you use this code or these models, please cite the following paper:
 
 # Usage
 
-To run the demo, please download pre-trained model from [here](https://drive.google.com/file/d/1FVzZto4bf5_TCmRy3tNeirhPDdLrvum5/view?usp=sharing). Unzip it and put it to `model/`, or anywhere
+To run the demo, please download pre-trained model on cnn_dailymail from [here](https://drive.google.com/file/d/1FVzZto4bf5_TCmRy3tNeirhPDdLrvum5/view?usp=sharing) or gigaword from [here](https://drive.google.com/file/d/1ZF2qO6bAnsTF2LSndLMir3e7NrlFL288/view?usp=sharing). Unzip it and put it to `model/`, or anywhere
 really if you just specify its location and where your article file is. Suppose your article is this [one](https://thehill.com/policy/national-security/507744-russian-hackers-return-to-spotlight-with-vaccine-research-attack)
 
 `python test_example.py --article example_article --model_dir model/`
