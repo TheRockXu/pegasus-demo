@@ -43,6 +43,6 @@ You will see this output - `PREDICTION >>  The hacking group known as NC29 is la
 
 # Export Model
 
-To export a model you have train, please place the `ExportModel.ipynb` inside the [PEGASUS](https://github.com/google-research/pegasus) folder.
-Just run the script inside by specifying the which data model you want to export.
+To export a model you have trained, please place the `ExportModel.ipynb` inside the [PEGASUS](https://github.com/google-research/pegasus) folder.
+Just run the script inside by specifying which data model you want to export.
  
